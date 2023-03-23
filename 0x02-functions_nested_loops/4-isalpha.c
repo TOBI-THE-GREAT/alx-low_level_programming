@@ -1,6 +1,3 @@
-4-isalpha CODE
-
-
 #include "main.h"
 
 
@@ -13,4 +10,3 @@
 	{
 		return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'));
 	}
-
